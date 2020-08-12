@@ -1,0 +1,11 @@
+@font-face {
+    font-family: Noto Serif SC;
+    src: url(https://mimist.jingzhidh.com/usr/themes/Cuteen/Static/Font/NotoSerifSC-Regular.otf);
+    font-weight:400;
+}
+
+@font-face {
+    font-family: Noto Serif SC;
+    src: url(https://mimist.jingzhidh.com/usr/themes/Cuteen/Static/Font/NotoSerifSC-Bold.otf);
+    font-weight:900;
+}
